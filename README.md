@@ -1,2 +1,2 @@
-# Music-Player
-This is a Music Player Project
+# MusicPlayer
+Music Player By Charan B
